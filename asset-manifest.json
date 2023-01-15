@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/keplr/static/css/main.a274286e.css",
+    "main.js": "/keplr/static/js/main.cae8e4cc.js",
+    "static/js/787.bccaa5a3.chunk.js": "/keplr/static/js/787.bccaa5a3.chunk.js",
+    "index.html": "/keplr/index.html",
+    "main.a274286e.css.map": "/keplr/static/css/main.a274286e.css.map",
+    "main.cae8e4cc.js.map": "/keplr/static/js/main.cae8e4cc.js.map",
+    "787.bccaa5a3.chunk.js.map": "/keplr/static/js/787.bccaa5a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a274286e.css",
+    "static/js/main.cae8e4cc.js"
+  ]
+}
